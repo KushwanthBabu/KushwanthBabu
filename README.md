@@ -2,14 +2,14 @@
 
 ### 🚀 Aspiring Software Engineer | Cloud & DevOps Engineer  
 
-On a mission to design, automate, and deploy scalable systems using **Cloud and DevOps technologies**.
+Building scalable, automated, and cloud-native solutions using modern **DevOps and Cloud technologies**.
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Final year **B.Tech CSE (Cloud Computing)**
-- ☁️ Strong focus on **DevOps, Cloud Infrastructure, and Automation**
-- 🏗️ Hands-on experience with **CI/CD pipelines and cloud deployments**
+- ☁️ Focused on **DevOps, CI/CD, Cloud Infrastructure & Automation**
+- 🏗️ Hands-on experience with **pipeline automation and cloud deployments**
 - 👨‍💻 All my projects are available at:  
   👉 https://github.com/KushwanthBabu
 - 💬 Ask me about **Java, Python, DevOps, Cloud, CI/CD**
@@ -46,19 +46,20 @@ On a mission to design, automate, and deploy scalable systems using **Cloud and 
 ## 🎓 Certifications
 
 <p align="left">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OC-Professional-badge.png" alt="Oracle Certified Professional" width="140"/>
+  <img src="https://tse1.explicit.bing.net/th/id/OIP.f5YWB-kGNhhepjlr1tq4FwHaDI?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" 
+       alt="Oracle Certified Professional DevOps Engineer" width="220"/>
 </p>
 
 - 🏅 **Oracle Certified Professional – DevOps Engineer**  
-  *Validated expertise in CI/CD pipelines, automation, cloud-native DevOps practices, and enterprise DevOps workflows*
+  *Validated expertise in CI/CD pipelines, automation, cloud-native DevOps practices, and enterprise-grade DevOps workflows.*
 
 ---
 
 ## 📌 Featured Projects
 - 🔹 **CI/CD Pipeline Automation** – Designed and implemented Jenkins-based CI/CD pipelines integrated with GitHub  
 - 🔹 **Cloud Infrastructure Deployment** – Deployed and managed applications on **AWS and Azure**  
-- 🔹 **DevOps Automation Projects** – Automated build, test, and deployment workflows using Maven and Jenkins  
-- 🔹 **Data Analysis & Visualization** – Built dashboards and reports using **Excel and Power BI**
+- 🔹 **DevOps Automation Projects** – Automated build, test, and deployment workflows using **Maven & Jenkins**  
+- 🔹 **Data Analysis & Visualization** – Built dashboards and insights using **Excel and Power BI**
 
 👉 Explore all projects here:  
 **https://github.com/KushwanthBabu**
@@ -77,11 +78,16 @@ On a mission to design, automate, and deploy scalable systems using **Cloud and 
 
 ---
 
+## 🧠 Summary
+Cloud and DevOps-focused Computer Science graduate with hands-on experience in **CI/CD pipelines, Jenkins automation, Maven builds, GitHub version control, and cloud platforms including AWS and Azure**. Oracle Certified Professional DevOps Engineer with strong foundations in **Linux systems, Java, Python**, and deployment automation. Passionate about building reliable, scalable, and secure cloud-native solutions while continuously learning modern DevOps and infrastructure practices.
+
+---
+
 ## 🏆 Career Goals
-- 🚀 Secure a role as a **Cloud / DevOps Engineer**
-- 🔧 Build production-grade, scalable CI/CD pipelines
-- ☁️ Work on enterprise-level cloud infrastructure
-- 🌍 Contribute to open-source DevOps projects
+- 🚀 Start my career as a **Cloud / DevOps Engineer**
+- 🔧 Build production-ready CI/CD pipelines and automation workflows
+- ☁️ Work on scalable cloud infrastructure and distributed systems
+- 🌍 Contribute to open-source DevOps and cloud projects
 
 ---
 
