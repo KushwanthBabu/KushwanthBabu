@@ -66,18 +66,6 @@ Building scalable, automated, and cloud-native solutions using modern **DevOps a
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KushwanthBabu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushwanthBabu&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Summary
 Cloud and DevOps-focused Computer Science graduate with hands-on experience in **CI/CD pipelines, Jenkins automation, Maven builds, GitHub version control, and cloud platforms including AWS and Azure**. Oracle Certified Professional DevOps Engineer with strong foundations in **Linux systems, Java, Python**, and deployment automation. Passionate about building reliable, scalable, and secure cloud-native solutions while continuously learning modern DevOps and infrastructure practices.
 
