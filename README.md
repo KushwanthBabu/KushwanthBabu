@@ -44,8 +44,13 @@ On a mission to design, automate, and deploy scalable systems using **Cloud and 
 ---
 
 ## 🎓 Certifications
+
+<p align="left">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OC-Professional-badge.png" alt="Oracle Certified Professional" width="140"/>
+</p>
+
 - 🏅 **Oracle Certified Professional – DevOps Engineer**  
-  *(Validated expertise in CI/CD pipelines, automation, cloud-native DevOps practices, and enterprise DevOps workflows)*
+  *Validated expertise in CI/CD pipelines, automation, cloud-native DevOps practices, and enterprise DevOps workflows*
 
 ---
 
@@ -61,6 +66,7 @@ On a mission to design, automate, and deploy scalable systems using **Cloud and 
 ---
 
 ## 📊 GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KushwanthBabu&show_icons=true&theme=tokyonight" />
 </p>
@@ -74,8 +80,8 @@ On a mission to design, automate, and deploy scalable systems using **Cloud and 
 ## 🏆 Career Goals
 - 🚀 Secure a role as a **Cloud / DevOps Engineer**
 - 🔧 Build production-grade, scalable CI/CD pipelines
-- ☁️ Work on large-scale cloud infrastructure projects
-- 🌍 Actively contribute to open-source DevOps tools
+- ☁️ Work on enterprise-level cloud infrastructure
+- 🌍 Contribute to open-source DevOps projects
 
 ---
 
