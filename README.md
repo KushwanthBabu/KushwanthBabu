@@ -55,6 +55,25 @@ Building scalable, automated, and cloud-native solutions using modern **DevOps a
 
 ---
 
+## 🔁 Animated DevOps Workflow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashishps1/awesome-system-design-resources/main/assets/devops/devops.gif" 
+       alt="DevOps CI/CD Workflow Animation" width="800"/>
+</p>
+
+**Workflow Explanation:**
+- **Plan** → Requirement & sprint planning  
+- **Code** → Develop using Git & GitHub  
+- **Build** → Maven-based builds  
+- **Test** → Automated testing  
+- **Release** → Versioned artifacts  
+- **Deploy** → CI/CD via Jenkins  
+- **Operate** → Cloud infrastructure (AWS / Azure)  
+- **Monitor** → Logs, metrics & feedback loop  
+
+---
+
 ## 📌 Featured Projects
 - 🔹 **CI/CD Pipeline Automation** – Designed and implemented Jenkins-based CI/CD pipelines integrated with GitHub  
 - 🔹 **Cloud Infrastructure Deployment** – Deployed and managed applications on **AWS and Azure**  
@@ -66,7 +85,19 @@ Building scalable, automated, and cloud-native solutions using modern **DevOps a
 
 ---
 
-## 🧠 Summary
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KushwanthBabu&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushwanthBabu&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 ATS & LinkedIn Optimized Summary
 Cloud and DevOps-focused Computer Science graduate with hands-on experience in **CI/CD pipelines, Jenkins automation, Maven builds, GitHub version control, and cloud platforms including AWS and Azure**. Oracle Certified Professional DevOps Engineer with strong foundations in **Linux systems, Java, Python**, and deployment automation. Passionate about building reliable, scalable, and secure cloud-native solutions while continuously learning modern DevOps and infrastructure practices.
 
 ---
