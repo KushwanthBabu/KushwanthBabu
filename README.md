@@ -18,7 +18,7 @@ Building scalable, automated, and cloud-native solutions using modern **DevOps a
 ---
 
 ## 🌐 Connect with Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-link
+- 🔗 LinkedIn: https://www.linkedin.com/in/kushwanthbabu/
 - 🐙 GitHub: https://github.com/KushwanthBabu
 
 ---
